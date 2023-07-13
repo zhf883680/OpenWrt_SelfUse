@@ -22,5 +22,6 @@ luci-app-uhttpd
 luci-app-cpufreq  
 luci-app-openvpn-server  
 luci-app-zerotier  
+luci-app-socat
 
 [原版地址:sdf8057/cloudbuild](https://github.com/sdf8057/cloudbuild)
