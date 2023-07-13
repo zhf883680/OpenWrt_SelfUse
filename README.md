@@ -16,7 +16,6 @@
 
 ## 集成插件列表
 luci-app-ssr-plus  
-luci-app-openclash  
 luci-app-wol  
 luci-app-uhttpd  
 luci-app-cpufreq  
